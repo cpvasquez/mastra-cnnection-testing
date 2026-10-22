@@ -1,0 +1,50 @@
+{
+  "synthetic": true,
+  "orders": [
+    {
+      "customer": "Mountain Supply",
+      "items": [
+        {
+          "name": "notebooks",
+          "quantity": 8,
+          "unitPrice": 4.5
+        },
+        {
+          "name": "pens",
+          "quantity": 3,
+          "unitPrice": 2.25
+        }
+      ]
+    },
+    {
+      "customer": "Cedar Workshop",
+      "items": [
+        {
+          "name": "kits",
+          "quantity": 12,
+          "unitPrice": 85
+        },
+        {
+          "name": "manuals",
+          "quantity": 5,
+          "unitPrice": 12
+        }
+      ]
+    },
+    {
+      "customer": "Summit Team",
+      "items": [
+        {
+          "name": "monitors",
+          "quantity": 3,
+          "unitPrice": 175.99
+        },
+        {
+          "name": "cables",
+          "quantity": 10,
+          "unitPrice": 8.25
+        }
+      ]
+    }
+  ]
+}
